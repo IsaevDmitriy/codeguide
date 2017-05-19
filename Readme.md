@@ -13,9 +13,7 @@
 - [CSS основное](./CSS.md)
 - [CSS методология](./Metodology.md)
 
-## Благодарности
-
-* [Стиль кода CSSSR](https://github.com/CSSSR/sputnik)
+За основу взят [Стиль кода CSSSR](https://github.com/CSSSR/sputnik)
 
 ## Лицензия
 
