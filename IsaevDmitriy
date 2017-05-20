@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+  <meta name="description" content="Интересный блог">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog</title>
+
+</head>
+<body>
+<aside>
+ <div class="wrapper">
+ <a href="index.html">Home</a>
+  <h1>gallaria</h1>
+  <nav>
+    <li>home</li>
+    <li>videos</li>
+    <li>images</li>
+    <li>articles</li>
+    <li>freebies</li>
+  </nav>
+  <div>
+    <h3>About Us</h3>
+    <p>tram pam pam</p>
+  </div>
+  <div>
+    <h3>Tags</h3>
+   <span>
+   <a href="#">Video</a>
+   <a href="#">Video</a>
+   <a href="#">Video</a>
+   <a href="#">Video</a>
+   <a href="#">Video</a>
+   <a href="#">Video</a>
+   <a href="#">Video</a>
+   <a href="#">Video</a>
+   <a href="#">Video</a>
+   </span>
+  </div>
+ </div>
+ </aside>
+<main><section>
+   <div>
+     <h2>Featured Videos</h2>
+   </div>
+   <div>
+   <a href="#">поделиться вк</a> 
+   <a href="#">поделиться твиттер</a>  
+   <a href="#">поделиться google+</a>   
+   </div>
+   <video controls width="540" height="320" poster="zemlya.jpg">тег видео не поддерживается</video>
+   <div>Lorem ipsum jdjbjbdkdmm l mdm</div>
+   <button type="button">like</button>
+   <button type="button">поделиться</button>
+ </section>
+<section>
+   <span>Change view:</span>
+   <button type="button">столбец</button>
+   <button type="button">плитка</button>
+   <div>
+     <figure><img src="zemlya.jpg" alt="земля" height="150" width="250"></figure>
+     <button type="button">запустить видео</button>
+     <h3>Lorem ipsum pam pam pam pam</h3>
+     <p>150   30    2days ago</p>
+     <p>Sed ut pam pam pam pam pam pan pam pam pam</p>
+     <a href="#">страница</a>
+   </div>
+   <div>
+     <figure><img src="zemlya.jpg" alt="земля" height="150" width="250"></figure>
+     <button type="button">запустить видео</button>
+     <h3>Lorem ipsum pam pam pam pam</h3>
+     <p>150   30    2days ago</p>
+     <p>Sed ut pam pam pam pam pam pan pam pam pam</p>
+     <a href="#">страница</a>
+   </div>
+   <div>
+     <figure><img src="zemlya.jpg" alt="земля" height="150" width="250"></figure>
+     <button type="button">запустить видео</button>
+     <h3>Lorem ipsum pam pam pam pam</h3>
+     <p>150   30    2days ago</p>
+     <p>Sed ut pam pam pam pam pam pan pam pam pam</p>
+     <a href="#">страница</a>
+   </div>
+   <div>
+     <figure><img src="zemlya.jpg" alt="земля" height="150" width="250"></figure>
+     <button type="button">запустить видео</button>
+     <h3>Lorem ipsum pam pam pam pam</h3>
+     <p>150   30    2days ago</p>
+     <p>Sed ut pam pam pam pam pam pan pam pam pam</p>
+     <a href="#">страница</a>
+   </div>
+   </section></main>
+<footer>
+  <span>The gallaria the is designed By Css Author</span><br>
+  <a href="#">Home</a> |
+  <a href="#">About Us</a> |
+  <a href="#">Contact Us</a>
+  <div>
+   <a href="https://vk.com" target="_blank">этот блог вк</a> 
+   <a href="https://twitter.com">этот блог в твиттер</a>  
+   <a href="https://www.facebook.com">этот блог в фейсбук</a>
+   </div>
+</footer>
+</body>
+</html>
